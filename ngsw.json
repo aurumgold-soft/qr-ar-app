@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1634565277596,
+  "timestamp": 1635448373302,
   "index": "/qr-ar-app/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/qr-ar-app/favicon.ico",
         "/qr-ar-app/index.html",
-        "/qr-ar-app/main.568f17009264777e72d0.js",
+        "/qr-ar-app/main.fe6f2a0681c493ca86eb.js",
         "/qr-ar-app/manifest.webmanifest",
         "/qr-ar-app/polyfills.3c1c154e05f7f966c8df.js",
         "/qr-ar-app/runtime.ae277b2abdfd176739dc.js",
@@ -52,9 +52,9 @@
     "/qr-ar-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/qr-ar-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/qr-ar-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/qr-ar-app/index.html": "668fbf81154d441c9363aa33de604cf8982ece5c",
-    "/qr-ar-app/main.568f17009264777e72d0.js": "cb35d2b023661afcd1ea26f08e3b1bb3318dab4c",
-    "/qr-ar-app/manifest.webmanifest": "0a65a1e2e64ffa829f729f1916730ec93c4b6efb",
+    "/qr-ar-app/index.html": "ae44890d1e9b27200bb336ff63fcf3ed01348fd7",
+    "/qr-ar-app/main.fe6f2a0681c493ca86eb.js": "490d6b3fbb79a2af2c69f4dad3da596ab70faf89",
+    "/qr-ar-app/manifest.webmanifest": "702846fd39a16494b3a05c29dfeee2b73c967e65",
     "/qr-ar-app/polyfills.3c1c154e05f7f966c8df.js": "0127b4e397207ed7fef95143901b302e05c5b755",
     "/qr-ar-app/runtime.ae277b2abdfd176739dc.js": "a591c4eecba603a5e141352ecb0697f03e9f5e41",
     "/qr-ar-app/styles.edc2bb1b68e8a9b049b4.css": "a3dd8349b6201cd154f8fbf6d6fefab94065bab1"
